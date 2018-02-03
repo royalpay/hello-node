@@ -6,7 +6,7 @@ FROM royalpay/node:8.9.4-slim
 ADD . /src
 
 # Install app dependencies
-RUN cd /src; npm install
+RUN cd /src; npm install;
 
 EXPOSE 9000
-CMD["nodejs","/src/index.js"]
+CMD ["node","/src/index.js"]
