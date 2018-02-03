@@ -1,0 +1,27 @@
+{
+  "name": "hello-node",
+  "version": "1.0.0",
+  "description": "first node project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/buddhaLi/hello-node.git"
+  },
+  "author": "bruceLi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/buddhaLi/hello-node/issues"
+  },
+  "homepage": "https://github.com/buddhaLi/hello-node#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "mocha": "^4.1.0",
+    "should": "^13.2.0",
+    "supertest": "^3.0.0"
+  }
+}
