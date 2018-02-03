@@ -1,4 +1,4 @@
-# DOCKER-VERSION 1.1.2
+# DOCKER-VERSION 18.01.0-ce
 
 FROM royalpay/node:8.9.4-slim
 
