@@ -3,7 +3,7 @@
 FROM royalpay/node:8.9.4-slim
 
 # Bundle app source
-ADD ./src
+ADD . /src
 
 # Install app dependencies
 RUN cd /src; npm install
