@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/buddhaLi/hello-node.git"
+    "url": "git+https://github.com/royalpay/hello-node.git"
   },
   "author": "bruceLi",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/buddhaLi/hello-node/issues"
+    "url": "https://github.com/royalpay/hello-node/issues"
   },
-  "homepage": "https://github.com/buddhaLi/hello-node#readme",
+  "homepage": "https://github.com/royalpay/hello-node#readme",
   "dependencies": {
     "express": "^4.16.2"
   },
