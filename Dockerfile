@@ -1,6 +1,6 @@
 # DOCKER-VERSION 18.01.0-ce
 
-FROM royalpay/node:8.9.4-slim
+FROM royalpay/node:8.9.4-alpine
 
 # Bundle app source
 ADD . /webapp
